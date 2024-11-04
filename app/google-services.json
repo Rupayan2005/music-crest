@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149152644086",
+    "project_id": "music-2205b",
+    "storage_bucket": "music-2205b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149152644086:android:007bce1134582166cca5d7",
+        "android_client_info": {
+          "package_name": "com.example.crest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3RgxOCnrGGkdWrFUf4WHy2cJhXLwg4BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
